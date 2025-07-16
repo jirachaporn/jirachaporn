@@ -1,10 +1,10 @@
 ## 👋 Hi there! I'm Jirachaporn
 
-📄 [**View My Resume**](https://jirachaporn.github.io/resume_jirachaporn/)
+### 📄 View My Resume → [**les go** 🚀](https://jirachaporn.github.io/resume_jirachaporn/)
 
 ---
 
-### 🛠️ Technologies & Tools (By Career Path)
+### 🛠️ Skills & Tools
 
 #### 🎨 Frontend
 <div align="left">
