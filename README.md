@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Jirachaporn
 
-### 📄 View My Resume → [**les go** 🚀](https://jirachaporn.github.io/resume_jirachaporn/)
+### 📄 My Resume → [**Click here** 🚀](https://jirachaporn.github.io/resume_jirachaporn/)
 
 ---
 
