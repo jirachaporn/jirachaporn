@@ -47,5 +47,12 @@
 </div>
 
 ---
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jirachaporn&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jirachaporn&show_icons=true&theme=dark&hide_border=false" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirachaporn&theme=dark&hide_border=false&layout=compact" />
+
+</div>
