@@ -46,3 +46,6 @@
   <img src="https://img.shields.io/badge/Weka-5E5E5E?style=for-the-badge&logo=weka&logoColor=white" alt="Weka" />
 </div>
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jirachaporn&theme=dark&hide_border=false&layout=compact)
