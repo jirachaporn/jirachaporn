@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there! I'm Jirachaporn
 
-<!--
-**jirachaporn/jirachaporn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📄 [**View My Resume**](https://jirachaporn.github.io/resume_jirachaporn/)
 
-Here are some ideas to get you started:
+### 💻 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+`Python` `HTML` `CSS` `Java` `C` `JavaScript` `TypeScript` `Dart`
+
+**Frameworks & Libraries**  
+`React` `Angular` `Node.js` `Bootstrap 5` `Tailwind CSS` `Flutter`
+
+**Tools & Platforms**  
+`GitHub` `MySQL` `MongoDB` `Figma` `Draw.io` `Postman` `Unity` `Android Studio` `Weka (Basic)`
